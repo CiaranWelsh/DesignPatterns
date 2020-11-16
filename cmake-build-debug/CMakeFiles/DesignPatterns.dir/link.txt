@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libDesignPatterns.a  CMakeFiles/DesignPatterns.dir/library.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libDesignPatterns.a
